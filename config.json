@@ -1,0 +1,7 @@
+[
+    {
+        "pipelines_path": "../br001-bi-analytics-v2/src/dataplatform/data-factory/pipeline/",
+        "activity_type": "DatabricksNotebook",
+        "activity_name_pattern": "20-SY"
+    }
+]
